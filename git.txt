@@ -2,4 +2,6 @@
 
 git_demo_one 进行了修改：a:
 
+git_one 也进行了修改
+
 git_demo_one 第二次修改::
